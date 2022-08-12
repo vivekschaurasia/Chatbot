@@ -13,7 +13,7 @@ The dataset is referred from Cornell.
 (https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html)
 
 
-The chatbot is wriiten in python language in a colab notebook environment. 
+The chatbot is written in python language in a colab notebook environment. 
 
 
 ## List of Hyperparameters:
